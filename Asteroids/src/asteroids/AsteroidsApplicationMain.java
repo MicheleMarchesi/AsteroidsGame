@@ -132,7 +132,7 @@ public class AsteroidsApplicationMain extends Application {
 
             }
         }.start();
-        stage.setTitle("Asteroids Giocalo Ora!");
+        stage.setTitle("Asteroids Game");
         stage.setScene(scena);
         stage.show();
     }
